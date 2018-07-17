@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@types/react-loadable": "^5.4.0",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-loadable": "^5.4.0"
+  },
+  "devDependencies": {
+    "@types/react": "^16.4.6",
+    "@types/react-dom": "^16.0.6",
+    "parcel-bundler": "^1.9.7",
+    "typescript": "^2.9.2"
+  }
+}
